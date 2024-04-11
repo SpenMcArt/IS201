@@ -1,0 +1,55 @@
+.style{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.styleHome{ 
+    
+    background-color: #343434;
+    color: whitesmoke;
+    padding: 10px;
+    border: #333; 
+    
+}
+
+.styleBack{
+    background-color: #343434;
+    color: whitesmoke;
+    padding: 10px;
+    border: #333;
+    
+}
+
+.list{
+text-align: center;
+}
+div{
+   text-align: center;
+
+}
+
+
+
+.styleTitle{
+font-family:'Times New Roman', Times, serif;
+font-size:50px;
+color: whitesmoke;
+text-align: center;
+text-decoration: underline;
+background-color: #343434;
+padding: 40px;
+margin-top: 0px;
+margin: 0px;
+
+}
+
+
+ul {
+    list-style-position: inside; 
+}
+
+ol{
+    list-style-position: inside;
+}
+
+
